@@ -14,3 +14,7 @@ A repository housing many MD3/MDR import/export scripts for different versions o
 # To-Do
 * Create Blender Python scripts for MDR import/export with full feature support, such as compression, tags, and LODs.
   * LOD selection export: LOD meshes shifted into different layers for organization, and object names given an _1 _2 respectively, having the exporter to also select those (if available) and export the selected object/armature along with the LOD mesh objects.
+  * Unlike IQM, MDR is weighted bones on a skeleton without hierarchy and rather compressed bone data intended for loads of frames. It also has the ability to have internal LOD meshes in the same file.
+* Create proper md3 exporters for later versions
+  * They are known for having bounding box and normals issues. The bounding box is important since it's used for the renderer to occlude, and has a habit of doing a smallest bbox. For example, when making a little flare sprite surface on a railgun, when the flare is unseen, the whole gun is unseen. It's also almost impossible to make autosprites2 in them.
+  
