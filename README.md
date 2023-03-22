@@ -13,4 +13,4 @@ A repository housing many MD3/MDR import/export scripts for different versions o
 
 # To-Do
 * Create Blender Python scripts for MDR import/export with full feature support, such as compression, tags, and LODs.
-: * LOD selection export: LOD meshes shifted into different layers for organization, and object names given an _1 _2 respectively, having the exporter to also select those (if available) and export the selected object/armature along with the LOD mesh objects.
+  * LOD selection export: LOD meshes shifted into different layers for organization, and object names given an _1 _2 respectively, having the exporter to also select those (if available) and export the selected object/armature along with the LOD mesh objects.
