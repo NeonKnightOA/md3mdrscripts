@@ -5,6 +5,7 @@ A repository housing many MD3/MDR import/export scripts for different versions o
 * [Blender 2.7 MD3 Export Script @ Duke4.net](https://forums.duke4.net/topic/5358-blender-27-md3-export-script/)
 * [Blender md3 import-export tool @ ModDB.com](https://www.moddb.com/games/quake-iii-arena/downloads/blender-md3-import-export-tool)
 * [MD3 support for Blender (Repository) @ github\.com/neumond](https://github.com/neumond/blender-md3)
+* [XReaL SVN repository](https://sourceforge.net/p/xreal/svn/HEAD/tree/trunk/xreal/blender/blender-2.49/)
 
 # Other links of interest
 * [Description of MD3 format](http://www.icculus.org/homepages/phaethon/q3a/formats/md3format.html)
